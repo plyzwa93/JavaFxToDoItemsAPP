@@ -1,0 +1,11 @@
+First short description	First very very long description from the window	01-01-2001
+Second short description	Second very very long description from the window	02-02-2002
+Third short description	Third very very long description from the window	03-03-2003
+Fourth short description	Fourth very very long description from the window	04-04-2004
+Seventh short description	Seventh very very long description from the window	07-07-2007
+Do something	You can't be so lazy as you was before. C'mon show me, what are you made of	09-09-2009
+Tommorow important	This should be done tommorow	11-04-2018
+Do in the future	Very important task that you must do in week period	12-05-2018
+Praca magisterska	trzeci i czwarty rozdzial ze schematami	15-04-2018
+Zrob pranie	Bardzo wazne jest zebys zrobil pranie	22-06-2018
+zapal fajke	trzeba zajarac szluga	27-06-2018
